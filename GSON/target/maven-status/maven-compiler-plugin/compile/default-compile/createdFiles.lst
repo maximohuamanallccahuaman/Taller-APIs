@@ -1,0 +1,6 @@
+model\Ubigeo.class
+model\Persona.class
+dao\PersonaImpl.class
+dao\Conexion.class
+dao\ICRUD.class
+controller\PersonaC.class
